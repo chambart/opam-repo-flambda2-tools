@@ -25,5 +25,5 @@ build: [
 ]
 install: [make "install"]
 url {
-  src: "https://github.com/ocaml/ocaml/archive/049f4e53ecb5d32bd7a19e8611068dcda545606c.tar.gz"
+  src: "https://github.com/ocaml/ocaml/archive/81420443a3f797d13a73a0a940760ce8dd2a4869.tar.gz"
 }
